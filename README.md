@@ -47,7 +47,7 @@ Building this project taught me the fundamental concepts of real-time conflict r
 
 ## OUTPUTS
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bf44c601-ead8-4bb6-b671-7427cc64b76c" />
+<img width="1278" height="685" alt="Image" src="https://github.com/user-attachments/assets/e5268c61-53a9-4e7a-baa6-5183e0244a03" />
 
 ---
 
